@@ -111,24 +111,24 @@ const skills = [
 
 const timelineData = [
   {
-    title: "2026",
+    title: "Futuro",
     content: (
       <div>
         <h3 className="text-xl md:text-2xl font-bold text-neutral-800 dark:text-neutral-200 mb-4">
           Visão de Futuro: O Próximo Capítulo
         </h3>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          Este ano representa um marco ambicioso na minha trajetória. Com a experiência acumulada e o conhecimento consolidado, 
-          planejo expandir significativamente meu portfólio de projetos, focando em soluções escaláveis que possam impactar 
+          Com a experiência acumulada e o conhecimento consolidado,
+          planejo expandir significativamente meu portfólio de projetos, focando em soluções escaláveis que possam impactar
           um número maior de usuários.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          O objetivo principal é desenvolver meu primeiro SaaS (Software as a Service), uma plataforma que não apenas 
-          demonstre minhas habilidades técnicas, mas que também gere receita recorrente e estabeleça as bases para um 
+          O objetivo principal é desenvolver meu primeiro SaaS (Software as a Service), uma plataforma que não apenas
+          demonstre minhas habilidades técnicas, mas que também gere receita recorrente e estabeleça as bases para um
           crescimento sustentável e independência financeira através da tecnologia.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed">
-          Esta meta representa não apenas crescimento profissional, mas também a materialização de anos de aprendizado 
+          Esta meta representa não apenas crescimento profissional, mas também a materialização de anos de aprendizado
           e dedicação, transformando conhecimento em valor real para o mercado.
         </p>
       </div>
@@ -142,18 +142,18 @@ const timelineData = [
           Primeiro Retorno Financeiro: Validação do Conhecimento
         </h3>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          Este foi um ano transformador, marcando a transição de estudante para desenvolvedor profissional. 
-          Pela primeira vez, meus conhecimentos técnicos começaram a gerar receita tangível, validando anos de estudo 
+          Este foi um ano transformador, marcando a transição de estudante para desenvolvedor profissional.
+          Pela primeira vez, meus conhecimentos técnicos começaram a gerar receita tangível, validando anos de estudo
           e dedicação ao desenvolvimento de software.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          O momento mais significativo foi o desenvolvimento de um sistema completo de gestão para uma rádio local, 
-          incluindo controle de contratos, faturas e operações diárias. Este projeto me desafiou a pensar em soluções 
+          O momento mais significativo foi o desenvolvimento de um sistema completo de gestão para uma rádio local,
+          incluindo controle de contratos, faturas e operações diárias. Este projeto me desafiou a pensar em soluções
           empresariais reais, considerando não apenas a funcionalidade, mas também usabilidade, segurança e escalabilidade.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed">
-          Paralelamente, criei um aplicativo de controle de agendamentos para uma clínica de fisioterapia, 
-          experiência que me ensinou sobre gestão de dados sensíveis, interface intuitiva para profissionais da saúde 
+          Paralelamente, criei um aplicativo de controle de agendamentos para uma clínica de fisioterapia,
+          experiência que me ensinou sobre gestão de dados sensíveis, interface intuitiva para profissionais da saúde
           e a importância de sistemas confiáveis em ambientes críticos.
         </p>
       </div>
@@ -167,18 +167,18 @@ const timelineData = [
           Formação Acadêmica Superior: Estruturando o Conhecimento
         </h3>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          O ingresso no curso de Análise e Desenvolvimento de Sistemas na Unisenac Pelotas representou um momento 
-          crucial de estruturação do conhecimento que vinha desenvolvendo de forma autodidata. Pela primeira vez, 
+          O ingresso no curso de Análise e Desenvolvimento de Sistemas na Unisenac Pelotas representou um momento
+          crucial de estruturação do conhecimento que vinha desenvolvendo de forma autodidata. Pela primeira vez,
           pude conectar teoria acadêmica com a experiência prática que já possuía.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          Este período foi marcado pela criação de projetos web mais robustos e profissionais. Começei a trabalhar 
-          com tecnologias modernas como React e Next.js, descobrindo o poder do desenvolvimento full-stack e a 
+          Este período foi marcado pela criação de projetos web mais robustos e profissionais. Começei a trabalhar
+          com tecnologias modernas como React e Next.js, descobrindo o poder do desenvolvimento full-stack e a
           satisfação de criar aplicações completas do zero.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed">
-          A faculdade não apenas expandiu meu conhecimento técnico, mas também me apresentou conceitos fundamentais 
-          como arquitetura de software, metodologias ágeis e boas práticas de desenvolvimento, estabelecendo uma 
+          A faculdade não apenas expandiu meu conhecimento técnico, mas também me apresentou conceitos fundamentais
+          como arquitetura de software, metodologias ágeis e boas práticas de desenvolvimento, estabelecendo uma
           base sólida para minha carreira profissional.
         </p>
       </div>
@@ -192,18 +192,18 @@ const timelineData = [
           Especialização e Aplicação Prática
         </h3>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          Este período foi caracterizado pelo aprofundamento técnico e pela aplicação prática dos conhecimentos. 
-          Dediquei-me intensivamente ao estudo de Java e Spring Boot, tecnologias que se tornaram fundamentais 
+          Este período foi caracterizado pelo aprofundamento técnico e pela aplicação prática dos conhecimentos.
+          Dediquei-me intensivamente ao estudo de Java e Spring Boot, tecnologias que se tornaram fundamentais
           no meu arsenal de desenvolvimento.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          A motivação principal era contribuir meaningfully para a empresa familiar de desenvolvimento de software. 
-          Criei várias aplicações Android que não apenas demonstravam minhas habilidades, mas também agregavam 
-          valor real ao negócio, bridging the gap entre aprendizado teórico e aplicação comercial.
+          A motivação principal era contribuir significativamente para a empresa familiar de desenvolvimento de software.
+          Criei várias aplicações Android que não apenas demonstravam minhas habilidades, mas também agregavam
+          valor real ao negócio, unindo aprendizado teórico e aplicação comercial.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed">
-          Este foi também um período de grande crescimento pessoal, aprendendo sobre responsabilidade profissional, 
-          deadlines, e a importância de código limpo e bem documentado. Cada projeto me ensinou algo novo sobre 
+          Este foi também um período de grande crescimento pessoal, aprendendo sobre responsabilidade profissional,
+          deadlines, e a importância de código limpo e bem documentado. Cada projeto me ensinou algo novo sobre
           desenvolvimento mobile e arquitetura de aplicações.
         </p>
       </div>
@@ -217,57 +217,82 @@ const timelineData = [
           O Primeiro Contato com a Programação
         </h3>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          Este ano marcou o início oficial da minha jornada no desenvolvimento de software. A decisão de estudar Java 
-          foi estratégica, motivada pelo desejo de contribuir para o negócio familiar de tecnologia e pela 
+          Este ano marcou o início oficial da minha jornada no desenvolvimento de software. A decisão de estudar Java
+          foi estratégica, motivada pelo desejo de contribuir para o negócio familiar de tecnologia e pela
           popularidade da linguagem no desenvolvimento Android.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-                     Os primeiros meses foram desafiadores - aprender conceitos como orientação a objetos, estruturas de dados 
-           e lógica de programação exigiu dedicação e persistência. Cada pequena vitória, como conseguir fazer um 
-           &quot;Hello World&quot; ou criar minha primeira interface, trazia uma satisfação imensa.
+          Os primeiros meses foram desafiadores - aprender conceitos como orientação a objetos, estruturas de dados
+          e lógica de programação exigiu dedicação e persistência. Cada pequena vitória, como conseguir fazer um
+          &quot;Hello World&quot; ou criar minha primeira interface, trazia uma satisfação imensa.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed">
-          O foco no desenvolvimento Android abriu um mundo de possibilidades. Ver um aplicativo funcionando no 
-          celular, criado com minhas próprias mãos, foi um momento transformador que confirmou minha paixão pela 
+          O foco no desenvolvimento Android abriu um mundo de possibilidades. Ver um aplicativo funcionando no
+          celular, criado com minhas próprias mãos, foi um momento transformador que confirmou minha paixão pela
           programação e definiu o rumo da minha carreira.
         </p>
       </div>
     ),
   },
-  {
+    {
     title: "2020",
     content: (
       <div>
         <h3 className="text-xl md:text-2xl font-bold text-neutral-800 dark:text-neutral-200 mb-4">
-          Descoberta da Vocação: O IF-Sul e a Programação
+          Aprofundamento Técnico: O IF-Sul e a Programação Formal
         </h3>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          O ingresso no curso técnico de Eletrônica no IF-Sul Campus Pelotas foi um marco decisivo na minha vida. 
-          Embora o foco fosse eletrônica, foi aqui que tive meu primeiro contato formal com programação, 
-          uma descoberta que mudaria completamente minha trajetória.
+          O ingresso no curso técnico de Eletrônica no IF-Sul Campus Pelotas foi motivado pela experiência 
+          anterior com o sistema da oficina do meu tio. Busquei formalizar e expandir os conhecimentos 
+          de programação que já havia experimentado com xHarbour.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          As aulas de lógica de programação e os primeiros códigos em linguagens como C despertaram uma paixão 
-          que eu não sabia que existia. A satisfação de resolver problemas através de código, de ver a lógica 
-          se transformar em soluções funcionais, foi uma revelação.
+          As aulas de lógica de programação e os primeiros códigos em linguagens como C aprofundaram conceitos 
+          que eu já havia experimentado na prática. A educação técnica me proporcionou uma base sólida em 
+          pensamento lógico e resolução de problemas de forma estruturada.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed">
-          Este período foi fundamental para estabelecer uma base sólida em pensamento lógico e resolução de problemas. 
-          A educação técnica do IF-Sul me proporcionou não apenas conhecimento, mas também disciplina e método 
-          para abordar desafios complexos de forma estruturada.
+          Infelizmente, não consegui concluir o curso devido às paralisações causadas pela pandemia mundial 
+          e outros fatores institucionais. Após 2 anos de estudos, precisei repensar minha trajetória, 
+          mas o conhecimento adquirido foi fundamental para os próximos passos.
         </p>
       </div>
     ),
   },
   {
-    title: "2008-09",
+    title: "2012",
+    content: (
+      <div>
+        <h3 className="text-xl md:text-2xl font-bold text-neutral-800 dark:text-neutral-200 mb-4">
+          Primeiro Sistema Real: A Oficina do Tio
+        </h3>
+        <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
+          Aos 12 anos, tive minha primeira experiência real com desenvolvimento de software. Meu tio, 
+          que possuía uma oficina mecânica, precisava de um sistema para controlar vendas e recebimentos. 
+          Com a orientação do meu pai, desenvolvi meu primeiro sistema em xHarbour (evolução do xBase).
+        </p>
+        <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
+          Esta experiência foi transformadora. Ver um sistema que eu ajudei a criar sendo usado diariamente 
+          em um negócio real, resolvendo problemas concretos e facilitando a vida do meu tio, foi uma 
+          revelação sobre o poder da programação. Era mais que código - era uma solução tangível.
+        </p>
+        <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed">
+          O sucesso deste projeto plantou a semente do que se tornaria minha paixão pela programação. 
+          Foi aqui que descobri que não apenas gostava de tecnologia, mas que podia usar ela para 
+          criar soluções que realmente impactam a vida das pessoas e negócios.
+        </p>
+      </div>
+    ),
+  },
+  {
+    title: "2010",
     content: (
       <div>
         <h3 className="text-xl md:text-2xl font-bold text-neutral-800 dark:text-neutral-200 mb-4">
           O Despertar da Curiosidade Tecnológica
         </h3>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          Mesmo aos 8-9 anos de idade, já demonstrava uma fascinação única por tecnologia. Enquanto outras crianças 
+          Mesmo aos 7-8 anos de idade, já demonstrava uma fascinação única por tecnologia. Enquanto outras crianças 
           brincavam com brinquedos convencionais, eu encontrava alegria em desmontar e remontar computadores, 
           tentando entender como aquelas peças se conectavam para criar algo tão poderoso.
         </p>
@@ -441,6 +466,103 @@ export default function Portfolio() {
             até aplicações em produção.
           </p>
           <ProjectCard items={projects} />
+        </div>
+      </section>
+
+      {/* Clients Section */}
+      <section id="clients" className="pt-20 pb-4 px-4">
+        <div className="max-w-6xl mx-auto">
+          <h2 className="text-3xl md:text-5xl font-bold text-center mb-4 text-black dark:text-white">
+            Clientes Reais, Resultados Reais
+          </h2>
+          <p className="text-center text-neutral-600 dark:text-neutral-300 mb-12 max-w-2xl mx-auto">
+            Empresas e profissionais que confiam nas minhas soluções para otimizar seus processos
+            e impulsionar seus negócios.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {/* Radio Client */}
+            <div className="group relative p-6 rounded-2xl bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:border-blue-500 dark:hover:border-blue-400 transition-all duration-300 hover:shadow-xl">
+              <div className="flex items-center mb-4">
+                <div className="w-12 h-12 rounded-full bg-gradient-to-br from-red-500 to-pink-500 flex items-center justify-center text-white text-xl font-bold">
+                  📻
+                </div>
+                <div className="ml-4">
+                  <h3 className="font-bold text-lg text-black dark:text-white">Rádio Cultura</h3>
+                  <p className="text-sm text-neutral-600 dark:text-neutral-400">Comunicação</p>
+                </div>
+              </div>
+              <p className="text-neutral-700 dark:text-neutral-300 text-sm mb-4">
+                &quot;O sistema revolucionou nossa gestão administrativa. A interface intuitiva e os recursos 
+                automatizados nos permitem focar no que realmente importa: criar conteúdo de qualidade 
+                para nossos ouvintes.&quot; - Diretora Administrativa
+              </p>
+              <div className="flex items-center text-green-500 text-sm font-medium">
+                <div className="w-2 h-2 rounded-full bg-green-500 mr-2"></div>
+                Ativo desde 2025
+              </div>
+            </div>
+
+            {/* Clinic Client */}
+            <div className="group relative p-6 rounded-2xl bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:border-blue-500 dark:hover:border-blue-400 transition-all duration-300 hover:shadow-xl">
+              <div className="flex items-center mb-4">
+                <div className="w-12 h-12 rounded-full bg-gradient-to-br from-blue-500 to-cyan-500 flex items-center justify-center text-white text-xl font-bold">
+                  🏥
+                </div>
+                <div className="ml-4">
+                  <h3 className="font-bold text-lg text-black dark:text-white">Schadule Pro</h3>
+                  <p className="text-sm text-neutral-600 dark:text-neutral-400">Agendamento</p>
+                </div>
+              </div>
+              <p className="text-neutral-700 dark:text-neutral-300 text-sm mb-4">
+                &quot;Desde que implementamos o sistema, nossa produtividade aumentou significativamente. 
+                A facilidade de uso e o agendamento automatizado reduziram o tempo gasto em tarefas 
+                administrativas significativamente, permitindo focar mais no atendimento.&quot; - Gerente de Operações
+              </p>
+              <div className="flex items-center text-green-500 text-sm font-medium">
+                <div className="w-2 h-2 rounded-full bg-green-500 mr-2"></div>
+                Ativo desde 2025
+              </div>
+            </div>
+
+            {/* Restaurant Client */}
+            <div className="group relative p-6 rounded-2xl bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700 hover:border-blue-500 dark:hover:border-blue-400 transition-all duration-300 hover:shadow-xl">
+              <div className="flex items-center mb-4">
+                <div className="w-12 h-12 rounded-full bg-gradient-to-br from-orange-500 to-red-500 flex items-center justify-center text-white text-xl font-bold">
+                  🍽️
+                </div>
+                <div className="ml-4">
+                  <h3 className="font-bold text-lg text-black dark:text-white">GourmetFlow</h3>
+                  <p className="text-sm text-neutral-600 dark:text-neutral-400">Gastronomia</p>
+                </div>
+              </div>
+              <p className="text-neutral-700 dark:text-neutral-300 text-sm mb-4">
+                &quot;Com o GourmetFlow, revolucionamos nossa operação diária. O sistema simplificou nosso 
+                processo de pedidos e o dashboard com métricas de vendas nos permite tomar decisões mais 
+                estratégicas, melhorando nossa eficiência operacional.&quot; - Gerente de Marketing
+              </p>
+              <div className="flex items-center text-green-500 text-sm font-medium">
+                <div className="w-2 h-2 rounded-full bg-green-500 mr-2"></div>
+                Ativo desde 2024
+              </div>
+            </div>
+          </div>
+
+          {/* Stats Section */}
+          <div className="mt-20 grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="text-center">
+              <div className="text-3xl md:text-4xl font-bold text-blue-500 dark:text-blue-400 mb-2">6+</div>
+              <div className="text-sm text-neutral-600 dark:text-neutral-400">Clientes Ativos</div>
+            </div>
+            <div className="text-center">
+              <div className="text-3xl md:text-4xl font-bold text-green-500 dark:text-green-400 mb-2">350+</div>
+              <div className="text-sm text-neutral-600 dark:text-neutral-400">Usuários Finais</div>
+            </div>
+            <div className="text-center">
+              <div className="text-3xl md:text-4xl font-bold text-purple-500 dark:text-purple-400 mb-2">100%</div>
+              <div className="text-sm text-neutral-600 dark:text-neutral-400">Suporte ao Cliente</div>
+            </div>
+          </div>
         </div>
       </section>
 
