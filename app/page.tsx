@@ -48,7 +48,7 @@ const projects = [
     title: "Veltro",
     description: "Consolidador de carteiras de investimentos de Renda Variável e Renda Fixa. Aplicação completa para gerenciamento e análise de investimentos com dashboard intuitivo.",
     link: "https://veltro.vercel.app",
-    status: "Alpha"
+    status: "Beta"
   },
   {
     title: "Fidera",
@@ -66,19 +66,19 @@ const projects = [
     title: "GourmetFlow",
     description: "Aplicação completa para restaurantes, oferecendo sistema de atendimento, gestão de pedidos e dashboard administrativo para análise e controle do estabelecimento.",
     link: "https://gourmet-flow.vercel.app",
-    status: "Alpha"
+    status: "Production"
   },
   {
     title: "AI Chat",
     description: "Chat simples e minimalista que se conecta à API Gemini AI, permitindo interações rápidas e eficientes com inteligência artificial.",
     link: "https://github.com/coder-muller/ai-chat-project",
-    status: "Beta"
+    status: "Learning"
   },
   {
     title: "Code Trackr",
     description: "Sistema de controle de projetos e tarefas, desenvolvido com Next.js, Prisma ORM e PostgreSQL. Controle completo de projetos e tarefas, com dashboard administrativo para análise e controle do projeto.",
     link: "https://github.com/coder-muller/codeTrackr",
-    status: "Alpha"
+    status: "Development"
   },
 ];
 
@@ -234,7 +234,7 @@ const timelineData = [
       </div>
     ),
   },
-    {
+  {
     title: "2020",
     content: (
       <div>
@@ -242,18 +242,18 @@ const timelineData = [
           Aprofundamento Técnico: O IF-Sul e a Programação Formal
         </h3>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          O ingresso no curso técnico de Eletrônica no IF-Sul Campus Pelotas foi motivado pela experiência 
-          anterior com o sistema da oficina do meu tio. Busquei formalizar e expandir os conhecimentos 
+          O ingresso no curso técnico de Eletrônica no IF-Sul Campus Pelotas foi motivado pela experiência
+          anterior com o sistema da oficina do meu tio. Busquei formalizar e expandir os conhecimentos
           de programação que já havia experimentado com xHarbour.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          As aulas de lógica de programação e os primeiros códigos em linguagens como C aprofundaram conceitos 
-          que eu já havia experimentado na prática. A educação técnica me proporcionou uma base sólida em 
+          As aulas de lógica de programação e os primeiros códigos em linguagens como C aprofundaram conceitos
+          que eu já havia experimentado na prática. A educação técnica me proporcionou uma base sólida em
           pensamento lógico e resolução de problemas de forma estruturada.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed">
-          Infelizmente, não consegui concluir o curso devido às paralisações causadas pela pandemia mundial 
-          e outros fatores institucionais. Após 2 anos de estudos, precisei repensar minha trajetória, 
+          Infelizmente, não consegui concluir o curso devido às paralisações causadas pela pandemia mundial
+          e outros fatores institucionais. Após 2 anos de estudos, precisei repensar minha trajetória,
           mas o conhecimento adquirido foi fundamental para os próximos passos.
         </p>
       </div>
@@ -267,18 +267,18 @@ const timelineData = [
           Primeiro Sistema Real: A Oficina do Tio
         </h3>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          Aos 12 anos, tive minha primeira experiência real com desenvolvimento de software. Meu tio, 
-          que possuía uma oficina mecânica, precisava de um sistema para controlar vendas e recebimentos. 
+          Aos 12 anos, tive minha primeira experiência real com desenvolvimento de software. Meu tio,
+          que possuía uma oficina mecânica, precisava de um sistema para controlar vendas e recebimentos.
           Com a orientação do meu pai, desenvolvi meu primeiro sistema em xHarbour (evolução do xBase).
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          Esta experiência foi transformadora. Ver um sistema que eu ajudei a criar sendo usado diariamente 
-          em um negócio real, resolvendo problemas concretos e facilitando a vida do meu tio, foi uma 
+          Esta experiência foi transformadora. Ver um sistema que eu ajudei a criar sendo usado diariamente
+          em um negócio real, resolvendo problemas concretos e facilitando a vida do meu tio, foi uma
           revelação sobre o poder da programação. Era mais que código - era uma solução tangível.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed">
-          O sucesso deste projeto plantou a semente do que se tornaria minha paixão pela programação. 
-          Foi aqui que descobri que não apenas gostava de tecnologia, mas que podia usar ela para 
+          O sucesso deste projeto plantou a semente do que se tornaria minha paixão pela programação.
+          Foi aqui que descobri que não apenas gostava de tecnologia, mas que podia usar ela para
           criar soluções que realmente impactam a vida das pessoas e negócios.
         </p>
       </div>
@@ -292,18 +292,18 @@ const timelineData = [
           O Despertar da Curiosidade Tecnológica
         </h3>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          Mesmo aos 7-8 anos de idade, já demonstrava uma fascinação única por tecnologia. Enquanto outras crianças 
-          brincavam com brinquedos convencionais, eu encontrava alegria em desmontar e remontar computadores, 
+          Mesmo aos 7-8 anos de idade, já demonstrava uma fascinação única por tecnologia. Enquanto outras crianças
+          brincavam com brinquedos convencionais, eu encontrava alegria em desmontar e remontar computadores,
           tentando entender como aquelas peças se conectavam para criar algo tão poderoso.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-          Essa curiosidade natural me levava a passar horas explorando hardware, conectando cabos, observando 
-          componentes e fazendo perguntas que muitas vezes os adultos ao redor não sabiam responder. 
+          Essa curiosidade natural me levava a passar horas explorando hardware, conectando cabos, observando
+          componentes e fazendo perguntas que muitas vezes os adultos ao redor não sabiam responder.
           Era como se houvesse uma conexão instintiva com a tecnologia.
         </p>
         <p className="text-base md:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed">
-          Olhando em retrospectiva, percebo que essa experiência precoce com hardware foi fundamental para 
-          desenvolver a base do pensamento lógico e sistemático que seria essencial na minha jornada como 
+          Olhando em retrospectiva, percebo que essa experiência precoce com hardware foi fundamental para
+          desenvolver a base do pensamento lógico e sistemático que seria essencial na minha jornada como
           desenvolvedor. Foi aqui que plantaram-se as sementes da paixão que me guiaria por toda a vida.
         </p>
       </div>
@@ -328,7 +328,10 @@ const ProjectCard = ({ items }: { items: typeof projects }) => {
               <h4 className="text-zinc-100 font-bold tracking-wide text-lg">{item.title}</h4>
               <span className={`px-2 py-1 rounded-full text-xs font-medium ${item.status === 'Alpha' ? 'bg-red-500/20 text-red-400' :
                 item.status === 'Beta' ? 'bg-yellow-500/20 text-yellow-400' :
-                  'bg-green-500/20 text-green-400'
+                  item.status === 'Production' ? 'bg-green-500/20 text-green-400' :
+                    item.status === 'Learning' ? 'bg-blue-500/20 text-blue-400' :
+                      item.status === 'Development' ? 'bg-purple-500/20 text-purple-400' :
+                        'bg-gray-500/20 text-gray-400'
                 }`}>
                 {item.status}
               </span>
@@ -493,8 +496,8 @@ export default function Portfolio() {
                 </div>
               </div>
               <p className="text-neutral-700 dark:text-neutral-300 text-sm mb-4">
-                &quot;O sistema revolucionou nossa gestão administrativa. A interface intuitiva e os recursos 
-                automatizados nos permitem focar no que realmente importa: criar conteúdo de qualidade 
+                &quot;O sistema revolucionou nossa gestão administrativa. A interface intuitiva e os recursos
+                automatizados nos permitem focar no que realmente importa: criar conteúdo de qualidade
                 para nossos ouvintes.&quot; - Diretora Administrativa
               </p>
               <div className="flex items-center text-green-500 text-sm font-medium">
@@ -515,8 +518,8 @@ export default function Portfolio() {
                 </div>
               </div>
               <p className="text-neutral-700 dark:text-neutral-300 text-sm mb-4">
-                &quot;Desde que implementamos o sistema, nossa produtividade aumentou significativamente. 
-                A facilidade de uso e o agendamento automatizado reduziram o tempo gasto em tarefas 
+                &quot;Desde que implementamos o sistema, nossa produtividade aumentou significativamente.
+                A facilidade de uso e o agendamento automatizado reduziram o tempo gasto em tarefas
                 administrativas significativamente, permitindo focar mais no atendimento.&quot; - Gerente de Operações
               </p>
               <div className="flex items-center text-green-500 text-sm font-medium">
@@ -537,8 +540,8 @@ export default function Portfolio() {
                 </div>
               </div>
               <p className="text-neutral-700 dark:text-neutral-300 text-sm mb-4">
-                &quot;Com o GourmetFlow, revolucionamos nossa operação diária. O sistema simplificou nosso 
-                processo de pedidos e o dashboard com métricas de vendas nos permite tomar decisões mais 
+                &quot;Com o GourmetFlow, revolucionamos nossa operação diária. O sistema simplificou nosso
+                processo de pedidos e o dashboard com métricas de vendas nos permite tomar decisões mais
                 estratégicas, melhorando nossa eficiência operacional.&quot; - Gerente de Marketing
               </p>
               <div className="flex items-center text-green-500 text-sm font-medium">
